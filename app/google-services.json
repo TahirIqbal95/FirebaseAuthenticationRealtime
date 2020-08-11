@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176035533116",
+    "firebase_url": "https://fir-authenticationrealti-94526.firebaseio.com",
+    "project_id": "fir-authenticationrealti-94526",
+    "storage_bucket": "fir-authenticationrealti-94526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176035533116:android:77044a51039954b1664e39",
+        "android_client_info": {
+          "package_name": "com.mejrabsoft.firebaseauthenticationrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176035533116-698ef6ogqrpg7193t5ojs41hvulgghbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mejrabsoft.firebaseauthenticationrealtime",
+            "certificate_hash": "46a83a7a7eba041f00e8a6cfefdd58ff5eb76b23"
+          }
+        },
+        {
+          "client_id": "176035533116-vkgk3k6i5buiu30lb5nqgrtfg0g5mtnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB051jLnPHEtjcOWT_0dvAwlNzegQG4_xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176035533116-vkgk3k6i5buiu30lb5nqgrtfg0g5mtnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

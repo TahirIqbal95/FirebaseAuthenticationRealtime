@@ -1,0 +1,2 @@
+rootProject.name='FirebaseAuthenticationRealtime'
+include ':app'
